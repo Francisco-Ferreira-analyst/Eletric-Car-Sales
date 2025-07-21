@@ -2,7 +2,7 @@
 
 ## 🚗 Overview
 
-This case study explores the growth and distribution of **Electric Vehicles (EVs)** across the United States, using a detailed dataset of vehicle registrations. With sustainability and clean energy becoming global priorities, EV adoption has surged—making this a timely and critical analysis of national trends.
+This case study explores the growth and distribution of **Electric Vehicles (EVs)** across the United States, using a detailed dataset of vehicle registrations. With sustainability and clean energy becoming global priorities, EV adoption has surged, making this a timely and critical analysis of national trends.
 
 ### 🔍 Objective
 
