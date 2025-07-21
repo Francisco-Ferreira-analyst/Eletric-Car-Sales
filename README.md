@@ -64,6 +64,7 @@ The following visualizations were created using Tableau to communicate findings 
 ## ⚠️ Notes
 
 - The **data files** in this repository are quite large. To view them fully, please **download the files locally**.
+- The user raw data is divided in 2 files since the original file was too big to be uploaded to this platform.
 - To explore the full interactive Tableau dashboard, click here:  
   👉 [**View Dashboard on Tableau Public**](https://public.tableau.com/app/profile/francisco.ferreira3093/viz/EletricVehiclePopulationCaseStudy2024/Dashboard1)
 
