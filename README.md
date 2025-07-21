@@ -1,4 +1,4 @@
-# Electric Vehicle Population Case Study 2024
+# Electric Vehicle Population Case Study
 
 ## 🚗 Overview
 
